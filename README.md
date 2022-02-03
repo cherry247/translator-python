@@ -4,4 +4,4 @@ to run the program make sure you have suitable anaconda evironment
 pyttsx3---->text to speech
 tkinter---->GUI toolkit
 
-[Blog](https://wordpress.com/posts/arcadianpost.wordpress.com)
+[Blog](https://arcadianpost.wordpress.com/2022/02/03/building-translator-in-python/)
